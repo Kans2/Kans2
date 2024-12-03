@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python,Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://my-react-app-rouge.vercel.app/](https://my-react-app-rouge.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-seven-chi-92.vercel.app/)
 
 - 💬 Ask me about **react,java,javascript,Go**
 
