@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Chat bot**
 
-- 🌱 I’m currently learning **Python,Nodejs**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-seven-chi-92.vercel.app/)
 
