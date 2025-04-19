@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm kannan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 - 🔭 I’m currently working on **Chat bot**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **flutter**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-seven-chi-92.vercel.app/)
 
